@@ -116,6 +116,7 @@ body {
 
 .skill-css {
   background-image: url("img/icon-css.svg");
+  text-align: left;
 }
 
 .level {
@@ -159,7 +160,8 @@ body {
 }
 
 .button {
-  padding: 6px 20px;
+  
+  margin: 220px ;
   display: inline-block;
   vertical-align: baseline;
   text-decoration: none;
